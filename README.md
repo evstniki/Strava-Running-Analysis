@@ -65,7 +65,7 @@ and a new file, `running_summary.png`, with three charts: distance, pace and hea
 The image above is created by the script. Run `python analysis.py` once so that `running_summary.png` exists in the same folder as this README. Each time you run the script, the image is replaced with an updated version.
 
 ## How to read the results
-
+   
 - **Pace** is total time divided by total distance for the month, so long runs count more than short ones. The pace axis is flipped, so a line going up means you are getting faster.
 - **Heart rate** is averaged only over runs that have heart rate data, weighted by time.
 - If your pace gets faster while your heart rate stays the same or drops, that is a rough sign your fitness is improving. Heat, hills and the mix of easy runs and workouts also affect these numbers.
