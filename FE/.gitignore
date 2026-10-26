@@ -24,6 +24,6 @@ dist-ssr
 *.sw?
 
 # Files
-public/data/
-Strava/Runs/activities
+public/data/*
+Strava/Runs/activities/*
 Strava/Runs/activities.csv
