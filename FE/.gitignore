@@ -22,3 +22,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Files
+public/data/
+Strava/Runs/activities
+Strava/Runs/activities.csv
