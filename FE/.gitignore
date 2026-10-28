@@ -28,3 +28,8 @@ dist-ssr
 public/data/*
 Strava/Runs/activities/*
 Strava/Runs/activities.csv
+Strava/Runs/monthly_km.png
+Strava/Runs/routes_map.html
+Strava/Runs/running_summary.png
+Strava/Runs/track_analysis.png
+Strava/Runs/track_cache.pkl
