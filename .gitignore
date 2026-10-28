@@ -1,0 +1,11 @@
+# Python virtual environment
+venv/
+
+# Strava generated/private data
+Runs/activities/
+Runs/activities.csv
+Runs/monthly_km.png
+Runs/routes_map.html
+Runs/running_summary.png
+Runs/track_analysis.png
+Runs/track_cache.pkl
